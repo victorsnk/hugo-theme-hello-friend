@@ -6,7 +6,7 @@ TEMPLATE:
 - https://radoslawkoziel.pl — **Radek Kozieł** (Software designer and developer)
 
 -->
-
+- https://victoraf.gitlab.io — **Radek Kozieł** (Personal web site)
 - https://0x44.pw — **Ian Pringle** (System Admin and developer)
 - https://blog.agung.io - **Agung Pratama** (Software Engineer and DevOps)
 - https://protocod.gitlab.io/blog/ **protocod** (Web Developer)
